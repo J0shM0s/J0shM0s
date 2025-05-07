@@ -335,3 +335,4 @@ Aktivitaet am 2025-05-05 - Commit 1
 Aktivitaet am 2025-05-05 - Commit 2
 Aktivitaet am 2025-05-05 - Commit 3
 Aktivitaet am 2025-05-07 - Commit 1
+Aktivitaet am 2025-05-07 - Commit 2
