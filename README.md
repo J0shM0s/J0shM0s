@@ -28,7 +28,7 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=J0shM0s&show_icons=true&theme=tokyonight&hide_border=true" alt="J0shM0s's GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=J0shM0s&theme=tokyonight&hide_border=true" alt="J0shM0s's GitHub streak" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=J0shM0s&theme=tokyonight&hide_border=true" alt="J0shM0s's GitHub streak" />
 </p>
 
 ### 🏆 Trophies
@@ -40,6 +40,8 @@
 ### 📫 Kontakt
 
 <p align="left">
+  <a href="https://portfolio-joshua-moser.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-portfolio--joshua--moser.netlify.app-0e75b6?style=flat&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/joshua-moser-883321428" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Moser-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://getyourvault.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Vault-App-000000?style=flat&logo=vercel" /></a>
 </p>
 
