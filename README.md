@@ -37,14 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=J0shM0s&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/J0shM0s/J0shM0s/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-</p>
-
-> Die Schlange braucht einmalig eine kleine GitHub Action in diesem Repo, siehe `snake.yml` unten — danach aktualisiert sie sich von selbst.
-
 ### 📫 Kontakt
 
 <p align="left">
