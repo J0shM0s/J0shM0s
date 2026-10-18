@@ -13,8 +13,6 @@
 
 ### 🚀 Woran ich gerade arbeite
 
-- 🤖 **Jarvis** – ein eigener KI-Agent (Docker Desktop, GroqCloud LLM), mit futuristischem HUD-Interface, Sprachsteuerung (Speech-to-Text & TTS) und Workflows wie automatischen Mail-Zusammenfassungen. Ziel: volle Google-Integration (Gmail, Kalender, Tasks).
-- 🧩 **Repo-Combo-Agent** – kombiniere AutoGPT, Open Interpreter, Browser-Use und CrewAI per Prompt zu einem eigenen autonomen, terminalbasierten AI-Agenten.
 - 🔐 **Vault** – eine App unter [getyourvault.netlify.app](https://getyourvault.netlify.app), aktuell mit Fokus auf ein durchgestyltes Icon im Solar-Icons-Look und dunklem Navy-Theme.
 - 🖥️ **Home-Server** – Raspberry Pi 3B als Server für Vaultwarden (Docker), erreichbar über Tailscale.
 
