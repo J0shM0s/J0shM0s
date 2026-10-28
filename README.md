@@ -23,12 +23,6 @@ Developing ...
   <img src="https://www.gitskins.com/api/section/stack?username=j0shm0s&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F282184987%3Fv%3D4" alt="j0shm0s stack visual" />
 </p>
 
-## System signals
-
-<table>
-<tr><td align="center"><b>3</b><br/><sub>repos</sub></td><td align="center"><b>2</b><br/><sub>stars</sub></td><td align="center"><b>999</b><br/><sub>contributions</sub></td></tr>
-</table>
-
 ## Reliable work
 
 - [ai-overview](https://github.com/J0shM0s/ai-overview) — TypeScript · 1 stars
